@@ -1,1 +1,0 @@
-import{_ as e,b as o,d as c,f as t,C as s}from"./index.a1a4618f.js";const _={class:"products-home"},a={__name:"ProductsHome",setup(r){return(d,n)=>(o(),c("div",_,[t(s)]))}},u=e(a,[["__scopeId","data-v-0085cbfc"]]);export{u as default};
