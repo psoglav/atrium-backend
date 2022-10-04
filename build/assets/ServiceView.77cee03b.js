@@ -1,1 +1,0 @@
-import{_ as e,o as s,a as c,b as o}from"./index.748c4521.js";const t={},n={class:"service page"},a=o("main",null,null,-1),_=[a];function r(i,l){return s(),c("div",n,_)}const f=e(t,[["render",r]]);export{f as default};

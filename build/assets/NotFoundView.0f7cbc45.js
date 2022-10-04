@@ -1,1 +1,0 @@
-import{_ as e,o as t,a as n,b as o}from"./index.748c4521.js";const s={},c={class:"not-found page"},a=o("main",null,[o("h2",null,"404 Not Found")],-1),_=[a];function r(d,i){return t(),n("div",c,_)}const u=e(s,[["render",r]]);export{u as default};
